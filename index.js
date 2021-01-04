@@ -1,4 +1,4 @@
-import {loadAndProcessData} from "loadAndProcessData.js"
+import {loadAndProcessData} from "./loadAndProcessData.js"
 
 var svg = d3.select("#WorldMap").append("svg")
 		        .attr("width", 1000)
