@@ -1,0 +1,33 @@
+
+p {
+  text-align: center;
+}
+
+body {
+    margin: 0px;
+    overflow: hidden;  }
+
+.country {
+  stroke: black;
+  stroke-width: 0.05px;
+
+}
+
+.sphere {
+  fill:#a2e2f3;
+}
+
+.country:hover {
+  fill:red;
+}
+
+
+.tick circle {
+  stroke: black;
+}
+
+.tick text {
+  font-size: 0.5em;
+  fill: black;
+  font-family: sans-serif;
+}
